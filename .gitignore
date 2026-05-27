@@ -1,0 +1,37 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.userprefs
+*.cache
+*.pidb
+*.svclog
+*.scc
+*.userosscache
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio user files
+*.sln.docstates
+*.vssscc
+*.vspscc
+
+# Resharper
+_ReSharper*/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
