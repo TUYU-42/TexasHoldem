@@ -53,13 +53,8 @@
 
 ## 遊戲畫面
 
-> 第一次提交時請補上實際遊玩截圖，並放到 `docs/` 資料夾。
+<img width="1613" height="1046" alt="螢幕擷取畫面 2026-05-27 221154" src="https://github.com/user-attachments/assets/2533dee7-c433-4423-896f-5e5b22f41834" />
 
-```
-docs/screenshot_table.png      ← 整個牌桌畫面
-docs/screenshot_showdown.png   ← 結算 (亮牌) 畫面
-docs/screenshot_allin.png      ← All-In 與 Side Pot
-```
 
 ---
 
